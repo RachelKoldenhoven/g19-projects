@@ -31,3 +31,7 @@ Features
 Technologies:
 JavaScript, HTML5, CSS,  Nodejs, postgreSQL, passport, knex, bcrypt, Google translate
 
+Mockups are located in the mockups folder
+
+Pivotal Tracker: https://www.pivotaltracker.com/n/projects/1552445
+

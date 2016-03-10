@@ -29,5 +29,5 @@ Features
 * job coordinator dashboard
 
 Technologies:
-JavaScript, HTML5, CSS, polymer,  Nodejs, postgreSQL, passport, knex, bcrypt, Google translate
+JavaScript, HTML5, CSS,  Nodejs, postgreSQL, passport, knex, bcrypt, Google translate
 
